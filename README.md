@@ -14,6 +14,36 @@ Welcome to my corner of GitHub! I'm a passionate web developer and tech enthusia
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** Former **Healthcare Specialist** in the Army and a dedicated volunteer at a kitten rescue in Mason County!
 
+
+---
+
+## 📜 Transcript Highlights
+
+**Institution:** Full Sail University  
+**Degree Program:** Bachelor of Science in Web Development  
+**Start Date:** August 2023  
+**Expected Graduation Date:** October 2026  
+**GPA:** 3.8  
+
+### Key Courses & Skills
+
+- **Web Development Fundamentals**: HTML, CSS, JavaScript, responsive design principles.
+- **Advanced JavaScript**: Focus on ES6+, asynchronous programming, and modern frameworks like React.
+- **Database Management**: SQL, database normalization, and database design in both MySQL and MongoDB.
+- **Backend Development**: Node.js, Express.js, REST API design and implementation.
+- **Version Control**: Git and GitHub for collaborative projects and source code management.
+- **UI/UX Design Principles**: Emphasis on accessibility, user-centered design, and intuitive navigation.
+
+### Course Projects & Practicals
+
+- **Interactive Web Applications**: Created dynamic web applications, integrating APIs, and implementing interactive front-end elements.
+- **Database-Driven Applications**: Built full-stack applications with database integration, ensuring data persistence and efficient querying.
+- **Automated Testing**: Gained experience in Jest for unit testing and Mocha/Chai for test-driven development on various projects.
+
+---
+
+This academic background has provided a strong foundation in **front-end and back-end web development**, and it directly supports the skills I bring to my current GitHub projects.
+
 ---
 
 ## 🌱 Currently Learning
