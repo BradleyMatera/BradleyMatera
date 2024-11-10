@@ -7,12 +7,12 @@ Welcome to my corner of GitHub! I'm a passionate web developer and tech enthusia
 ## 🚀 About Me 
 ![Profile](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
-- 🎓 **Student at Full Sail University** (Bachelor's in Web Development, Aug 2023 - Oct 2026)
-- 👨‍💻 **Independent Developer** — creating, showcasing, and educating through personal projects.
-- 👀 **Interests:** Web accessibility, responsive design, user-focused application development, and UX design.
-- 🌍 **Mission:** To champion empathy in technology and create solutions that respect and prioritize the user experience.
+- 🎓 **Student at Full Sail University** *(Bachelor's in Web Development, Aug 2023 - Oct 2026)*
+- 👨‍💻 **Independent Developer** — creating, showcasing, and educating through personal projects
+- 👀 **Interests:** Web accessibility, responsive design, user-focused application development, and UX design
+- 🌍 **Mission:** To champion empathy in technology and create solutions that respect and prioritize the user experience
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I’m a former **Healthcare Specialist** in the Army and a dedicated volunteer who helped out at a kitten rescue in Mason County!
+- ⚡ **Fun fact:** Former **Healthcare Specialist** in the Army and a dedicated volunteer at a kitten rescue in Mason County!
 
 ---
 
@@ -42,17 +42,29 @@ I'm actively expanding my skills in:
 ---
 
 ## 🌟 Featured Projects 
-### 🌐 Interactive Pokedex 
-A Pokedex app powered by the Pokémon API with interactive visuals and dynamic data handling.
+### 🖥️ BasicServerSetup
+A foundational server setup for back-end projects, showcasing server configurations and initial API setups.
+[![Server Setup Repo](https://img.shields.io/badge/-Repository-FFDD57?style=for-the-badge&logo=github)](https://github.com/BradleyMatera/BasicServerSetup)
+
+### 🎮 Interactive Pokedex 
+An engaging Pokedex app powered by the Pokémon API, with interactive visuals and dynamic data handling to provide an immersive user experience.
 [![Pokedex Demo](https://img.shields.io/badge/-Demo-FF5F5F?style=for-the-badge&logo=appveyor)](https://github.com/BradleyMatera/Interactive-Pokedex) [![Pokedex Repo](https://img.shields.io/badge/-Repository-FFDD57?style=for-the-badge&logo=github)](https://github.com/BradleyMatera/Interactive-Pokedex)
 
-### 🌍 Ready Set Travel Pages 
-A responsive travel site showcasing CSS animations and an eye-catching design.
-[![Travel Site Demo](https://img.shields.io/badge/-Demo-FF5F5F?style=for-the-badge&logo=appveyor)](https://github.com/BradleyMatera/ReadySetTravelPages) [![Travel Site Repo](https://img.shields.io/badge/-Repository-FFDD57?style=for-the-badge&logo=github)](https://github.com/BradleyMatera/ReadySetTravelPages)
+### 💼 Professional Portfolio Website 
+A personal portfolio website showcasing my skills, projects, and professional experience, built with responsive design principles.
+[![Portfolio Site Demo](https://img.shields.io/badge/-Demo-FF5F5F?style=for-the-badge&logo=appveyor)](https://bradleymatera.github.io/Professional-Portfolio-Website/) [![Portfolio Repo](https://img.shields.io/badge/-Repository-FFDD57?style=for-the-badge&logo=github)](https://github.com/BradleyMatera/Professional-Portfolio-Website)
 
-### 👩‍👧‍👦 Mom's Business Website 
-Creating a responsive and user-friendly website for my mom’s business using HTML, CSS, and JavaScript.
-[![Business Site Repo](https://img.shields.io/badge/-Repository-FFDD57?style=for-the-badge&logo=github)](https://github.com/BradleyMatera/Moms-website)
+### 🧪 CheeseMath-Jest-Tests
+A project demonstrating testing proficiency with Jest, focused on cheese-related calculations and logical functions.
+[![CheeseMath Repo](https://img.shields.io/badge/-Repository-FFDD57?style=for-the-badge&logo=github)](https://github.com/BradleyMatera/CheeseMath-Jest-Tests)
+
+### 🌐 RESTful Routes Using ExpressJS
+A REST API project using ExpressJS, showcasing route handling and CRUD operations for a backend application.
+[![RESTful Routes Repo](https://img.shields.io/badge/-Repository-FFDD57?style=for-the-badge&logo=github)](https://github.com/BradleyMatera/RESTfulRoutesUsingExpressJS)
+
+### 🚀 Docker Multilang Project
+A Docker-based project designed to explore and manage multiple programming languages within a containerized environment.
+[![Docker Project Repo](https://img.shields.io/badge/-Repository-FFDD57?style=for-the-badge&logo=github)](https://github.com/BradleyMatera/docker_multilang_project)
 
 ---
 
@@ -89,15 +101,20 @@ async function getData() {
 }
 
 getData();
+```
 
 Or maybe you’d prefer a little interactive ASCII art?
 
+```
     🚀
   🌌 Star Tracker 🌌
        🚀
+```
 
 🎉 Dynamic GitHub Contributions
 
 Thank you for visiting my profile! 🌟 Feel free to explore my projects, follow along, and connect as I continue my journey in web development. Whether you’re here to collaborate, learn, or just explore, I hope you enjoy what you find!
 
 ---
+
+This should display the content in one giant code block with Markdown syntax retained.
