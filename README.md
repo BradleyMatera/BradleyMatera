@@ -36,6 +36,78 @@ Welcome to my GitHub! I'm a passionate web developer and tech enthusiast, dedica
 - **DevOps Basics:** Docker for containerized deployment and streamlined development environments  
 
 ---
+---
+### Achievements and Certifications
+
+#### **FreeCodeCamp Certifications**
+- **[Responsive Web Design Certification](https://www.freecodecamp.org/certification/BradleyMatera/responsive-web-design)**  
+  *Completed: December 25, 2024*
+- **[JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/BradleyMatera/javascript-algorithms-and-data-structures-v8)**  
+  *Completed: December 25, 2024*
+
+#### **FreeCodeCamp Projects**
+- **Build a Personal Portfolio** - *December 25, 2024*  
+- **Build a Product Landing Page** - *December 25, 2024*  
+- **Build a Tribute Page** - *December 25, 2024*  
+- **Build a Survey Form** - *December 25, 2024*  
+- **Build a Technical Documentation Page** - *December 25, 2024*  
+- **Build a Telephone Number Validator** - *December 25, 2024*  
+- **Build a Roman Numeral Converter** - *December 25, 2024*  
+- **Build a Palindrome Checker** - *December 25, 2024*  
+- **Build a Cash Register** - *December 25, 2024*  
+- **Build a Pokémon Search App** - *December 25, 2024*
+
+#### **Microsoft Learn Achievements**
+- **Modules Completed**: 14  
+- **Training Hours Completed**: 11 hours, 54 minutes  
+
+#### **Microsoft Learn Projects**
+- **Challenge Project: Develop foreach and if-elseif-else Structures to Process Array Data in C#**  
+  *Completed: December 26, 2024*  
+  *Duration: 56 minutes* - *Module Assessment Passed*  
+- **Guided Project: Develop foreach and if-elseif-else Structures to Process Array Data in C#**  
+  *Completed: December 26, 2024*  
+  *Duration: 1 hour 33 minutes*  
+- **Create Readable Code with Conventions, Whitespace, and Comments in C#**  
+  *Completed: December 26, 2024*  
+  *Duration: 48 minutes*  
+- **Store and Iterate Through Sequences of Data Using Arrays and the foreach Statement in C#**  
+  *Completed: December 26, 2024*  
+  *Duration: 51 minutes*  
+- **Add Decision Logic to Your Code Using if, elseif, and else Statements in C#**  
+  *Completed: December 26, 2024*  
+  *Duration: 56 minutes*  
+- **Call Methods From the .NET Class Library Using C#**  
+  *Completed: December 25, 2024*  
+  *Duration: 54 minutes*  
+- **Install and Configure Visual Studio Code**  
+  *Completed: December 25, 2024*  
+  *Duration: 35 minutes* - *Module Assessment Passed*  
+- **Guided Project: Calculate Final GPA**  
+  *Completed: December 25, 2024*  
+  *Duration: 54 minutes*  
+- **Guided Project: Calculate and Print Student Grades**  
+  *Completed: December 25, 2024*  
+  *Duration: 44 minutes*  
+- **Perform Basic String Formatting in C#**  
+  *Completed: December 25, 2024*  
+  *Duration: 54 minutes*  
+- **Perform Basic Operations on Numbers in C#**  
+  *Completed: December 25, 2024*  
+  *Duration: 50 minutes*  
+- **Build a Simple Website Using HTML, CSS, and JavaScript**  
+  *Completed: December 25, 2024*  
+  *Duration: 44 minutes*  
+- **Store and Retrieve Data Using Literal and Variable Values in C#**  
+  *Completed: December 5, 2023*  
+  *Duration: 48 minutes*  
+- **Write Your First C# Code**  
+  *Completed: November 30, 2023*  
+  *Duration: 27 minutes*
+
+---
+
+---
 
 ## 💼 Professional Skills
 ### **Languages**
