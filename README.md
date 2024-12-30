@@ -1,67 +1,38 @@
 # 👋 Hello, I'm Bradley Matera! ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-Welcome to my GitHub! I'm a passionate web developer and tech enthusiast, dedicated to creating **user-centered applications** and leveraging technology to empower users. Currently pursuing my **Bachelor of Science in Web Development at Full Sail University** (GPA: 3.8), I focus on building responsive, scalable, and accessible solutions that prioritize user experience.  
+Welcome to my GitHub! I'm a passionate web developer dedicated to creating **user-focused applications** and leveraging modern technologies to solve real-world problems. Currently pursuing my **Bachelor of Science in Web Development at Full Sail University** (GPA: 3.8), I specialize in building **responsive, scalable, and accessible web solutions**.
 
 ---
 
 ## 🚀 About Me  
-![Profile](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+![Code](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
-- 🎓 **Student at Full Sail University** *(Web Development, Aug 2023 - Oct 2025)*  
-- 👨‍💻 **Independent Developer** — Building and showcasing educational projects with real-world applications  
-- 🐱 **Volunteer Advocate** — Former volunteer at Mason County Kitten Rescue, ensuring animal welfare and organization  
-- 🪖 **Veteran** — Served as a Healthcare Specialist with the 2/508th 82nd Airborne Division of the U.S. Army  
-- 🌍 **Mission:** Champion empathy in technology and create solutions that respect and prioritize user experience  
-- ⚡ **Fun fact:** I love modularizing code! One of my projects involves arithmetic logic inspired by cheese.
+- 🎓 **Full Sail University** *(Web Development, Aug 2023 – Oct 2025)*  
+- 👨‍💻 **Independent Developer:** Crafting projects integrating modern frameworks, RESTful APIs, and responsive design principles.  
+- 🌍 **Mission:** Build innovative, inclusive applications that prioritize user experience and accessibility.
 
 ---
 
-## 📜 Academic Highlights  
+## 🎓 Academic Journey & Certifications  
 
-**Institution:** Full Sail University  
-**Degree Program:** Bachelor of Science in Web Development  
-**GPA:** 3.8  
-**Expected Graduation Date:** October 2025  
-
-### Relevant Courses:  
-- **Advanced Web Applications**: React, Gatsby, and modern frontend architecture  
-- **API Development**: RESTful services with Express.js and MongoDB  
-- **Data Structures & Algorithms**: Optimized coding practices and efficient problem-solving  
-
----
-
-## 🌱 Currently Learning  
-- **Frontend Frameworks:** React, Next.js, and Gatsby for performant, modern web applications  
-- **Database Management:** MongoDB, MySQL, and Sequelize for secure and efficient data handling  
-- **DevOps Practices:** Docker for containerized deployment and streamlined environments  
-
----
-
-## 🎓 Certifications & Achievements  
+### **Formal Education**  
+🎓 **Bachelor of Science in Web Development**  
+- **Institution:** Full Sail University  
+- **GPA:** 3.8  
+- **Expected Graduation:** October 2025  
 
 ### **FreeCodeCamp Certifications**  
-- **[Responsive Web Design Certification](https://www.freecodecamp.org/certification/BradleyMatera/responsive-web-design)**  
-  *Completed: December 25, 2024*  
-- **[JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/BradleyMatera/javascript-algorithms-and-data-structures-v8)**  
-  *Completed: December 25, 2024*  
+- [Responsive Web Design Certification](https://www.freecodecamp.org/certification/BradleyMatera/responsive-web-design) *(Dec 25, 2024)*  
+- [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/BradleyMatera/javascript-algorithms-and-data-structures-v8) *(Dec 25, 2024)*  
 
-### **FreeCodeCamp Projects**  
-- **Build a Personal Portfolio**  
-- **Build a Product Landing Page**  
-- **Build a Tribute Page**  
-- **Build a Survey Form**  
-- **Build a Technical Documentation Page**  
-- **Build a Cash Register**  
-- **Build a Pokémon Search App**  
+Explore all achievements: [FreeCodeCamp Profile](https://www.freecodecamp.org/BradleyMatera)  
 
 ### **Microsoft Learn Achievements**  
-- **Modules Completed**: 14  
-- **Training Hours Completed**: 11 hours, 54 minutes  
+- **Modules Completed:** 22  
+- **Training Hours:** 19 hrs 2 mins  
+- Notable Topics: Boolean Logic, Looping Structures, Console Apps, and VS Code Configuration  
 
-### **Microsoft Learn Projects**  
-- **Challenge Project: Develop foreach and if-elseif-else Structures to Process Array Data in C#** *(Passed)*  
-- **Guided Project: Calculate Final GPA in C#**  
-- **Build a Simple Website Using HTML, CSS, and JavaScript**  
+View full transcript: [Microsoft Learn Transcript](https://learn.microsoft.com/en-us/users/bradleymatera/transcript/d823gsym0n5l2x9?tab=tab-modules)
 
 ---
 
@@ -83,31 +54,14 @@ Welcome to my GitHub! I'm a passionate web developer and tech enthusiast, dedica
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
 
-### **Specialties**  
-`RESTful API Development`, `Responsive Design`, `Accessibility`, `Data Modeling`, `Mobile App Development`
-
 ---
 
 ## 🌟 Featured Projects  
 
 ### 🦁 **Animal Sounds Soundboard**  
-An accessible and interactive soundboard application, featuring animal sounds and images fetched from the **Pexels API**.  
+An accessible and interactive soundboard application featuring animal sounds and images fetched from the **Pexels API**.  
 - **Live Demo:** [Animal Sounds Soundboard](https://bradleymatera.github.io/AnimalSounds)  
 - **GitHub:** [Animal Sounds](https://github.com/BradleyMatera/AnimalSounds)  
-
-### 📱 **ReactJS Mobile App**  
-A React Native mobile app leveraging the Jikan API for anime data and a custom RESTful API for managing user interactions.  
-- **Live Demo:** [ReactJS Mobile App](https://react-js-mobile-app.vercel.app/)  
-- **GitHub:** [ReactJS Mobile App](https://github.com/BradleyMatera/ReactJSMobileApp)  
-
-### 🧪 **CheeseMath-Jest-Tests**  
-A modular arithmetic library with API endpoints for advanced math operations.  
-- **GitHub:** [CheeseMath-Jest-Tests](https://github.com/BradleyMatera/CheeseMath-Jest-Tests)  
-
-### 🎮 **Interactive Pokedex**  
-A dynamic Pokedex powered by vanilla JavaScript, showcasing real-time Pokémon searches and responsive design.  
-- **Live Demo:** [Interactive Pokedex](https://bradleymatera.github.io/Interactive-Pokedex/)  
-- **GitHub:** [Interactive Pokedex](https://github.com/BradleyMatera/Interactive-Pokedex)  
 
 ### ✍️ **Blog with Next.js and Sanity**  
 A blog platform with Next.js for the frontend and Sanity CMS for backend content management, featuring real-time updates and incremental static regeneration.  
@@ -119,17 +73,24 @@ A blog platform focused on performance and SEO optimization, featuring light/dar
 - **Live Demo:** [Gatsby Blog](https://bradleysgatsbyblog.netlify.app/)  
 - **GitHub:** [Gatsby Blog](https://github.com/BradleyMatera)  
 
+### 📱 **ReactJS Mobile App**  
+A React Native mobile app leveraging the Jikan API for anime data and a custom RESTful API for managing user interactions.  
+- **Live Demo:** [ReactJS Mobile App](https://react-js-mobile-app.vercel.app/)  
+- **GitHub:** [ReactJS Mobile App](https://github.com/BradleyMatera/ReactJSMobileApp)  
+
 ### 🌟 **CRUD Demo Application**  
 A full-stack CRUD app with an Express.js backend and MongoDB database, showcasing end-to-end development.  
 - **Live Demo:** [CRUD Demo App](https://bradleycruddemo-1b86f27b4c16.herokuapp.com/)  
 - **GitHub:** [CRUD Demo](https://github.com/BradleyMatera/bradleycruddemo)  
 
----
+### 🧪 **CheeseMath-Jest-Tests**  
+A modular arithmetic library with API endpoints for advanced math operations.  
+- **GitHub:** [CheeseMath-Jest-Tests](https://github.com/BradleyMatera/CheeseMath-Jest-Tests)  
 
-## 🐾 Volunteer Experience  
-
-- **Mason County Kitten Rescue Volunteer (2020–2022):** Assisted in animal care, shelter logistics, and public outreach.  
-- **Case Manager (2022):** Supported individuals in achieving professional and personal goals.  
+### 🎮 **Interactive Pokedex**  
+A dynamic Pokedex powered by vanilla JavaScript, showcasing real-time Pokémon searches and responsive design.  
+- **Live Demo:** [Interactive Pokedex](https://bradleymatera.github.io/Interactive-Pokedex/)  
+- **GitHub:** [Interactive Pokedex](https://github.com/BradleyMatera/Interactive-Pokedex)  
 
 ---
 
@@ -141,4 +102,4 @@ A full-stack CRUD app with an Express.js backend and MongoDB database, showcasin
 
 ---
 
-Thank you for visiting my profile! Let's collaborate and build meaningful solutions together. 🌟  
+Thank you for visiting my profile! Let’s collaborate and build meaningful solutions together. 🌟  
