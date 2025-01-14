@@ -24,8 +24,7 @@ Welcome to my GitHub! I'm a passionate web developer dedicated to creating **use
 ### **FreeCodeCamp Certifications**  
 - [Responsive Web Design Certification](https://www.freecodecamp.org/certification/BradleyMatera/responsive-web-design) *(Dec 25, 2024)*  
 - [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/BradleyMatera/javascript-algorithms-and-data-structures-v8) *(Dec 25, 2024)*  
-- [Front End Development Libraries Certification](https://www.freecodecamp.org/certification/BradleyMatera/front-end-development-libraries) *(Jan 10, 2025)*  
-- [Data Visualization Certification](https://www.freecodecamp.org/certification/BradleyMatera/data-visualization) *(Jan 12, 2025)*  
+- [Foundational C# With Microsoftn](https://www.freecodecamp.org/certification/BradleyMatera/foundational-c-sharp-with-microsoft) *(Jan 12, 2025)*  
 
 Explore all achievements: [FreeCodeCamp Profile](https://www.freecodecamp.org/BradleyMatera)  
 
