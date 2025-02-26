@@ -33,10 +33,4 @@
 ### 🏆 **FreeCodeCamp Certifications**  
 - [Responsive Web Design Certification](https://www.freecodecamp.org/certification/BradleyMatera/responsive-web-design) *(Dec 25, 2024)*  
 - [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/BradleyMatera/javascript-algorithms-and-data-structures-v8) *(Dec 25, 2024)*  
-- [Foundational C# With Microsoft](https://www.freecodecamp.org/certification/BradleyMatera/foundational-c-sharp-with-microsoft) *(Jan 12, 2025)*  
-- 🔗 Explore all achievements: [FreeCodeCamp Profile](https://www.freecodecamp.org/BradleyMatera)  
-
-## 📬 **Let's Connect**  
-- 📧 **Email:** bradmatera@gmail.com  
-- 💼 **LinkedIn:** [Connect with me!](https://linkedin.com/in/championingempatheticwebsolutionsthroughcode)  
-- 🐱 **GitHub:** [@BradleyMatera](https://github.com/BradleyMatera)
+- [Foundational C# With Microsoft](https://www.freecodecamp.org/certification/BradleyMatera/foundational-c-sharp-with-microsoft) *(Jan 12, 2025)*
