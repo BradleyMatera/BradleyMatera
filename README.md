@@ -1,4 +1,5 @@
-# Welcome to my GitHub! I love creating things on my computer and exploring new technologies.
+# Welcome to my GitHub! 
+## I love creating things on my computer and exploring new technologies.
 
 ### 🌟 **Languages**  
 <p align="left">  
