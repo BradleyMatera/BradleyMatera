@@ -6,31 +6,29 @@ Welcome to my GitHub! I’m a web developer who loves exploring new technologies
 
 ### 🌟 **Languages**  
 <p align="left">  
-  [<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />](https://html.spec.whatwg.org/)  
-  [<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />](https://www.w3.org/Style/CSS/)  
-  [<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-  [<img src="https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />](https://www.mysql.com/)  
-  [<img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />](https://www.typescriptlang.org/)  
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="HTML5" />  
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="CSS3" />  
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript" />  
+  <img src="https://cdn.simpleicons.org/mysql/316192" height="30" alt="SQL" />  
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript" />  
 </p>
 
 ### 🛠️ **Frameworks & Libraries**  
 <p align="left">  
-  [<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />](https://react.dev/)  
-  [<img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />](https://nodejs.org/)  
-  [<img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />](https://nextjs.org/)  
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="React" />  
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js" />  
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30" alt="Next.js" />  
 </p>
 
 ### ⚙️ **Development Tools**  
 <p align="left">  
-  [<img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />](https://git-scm.com/)  
-  [<img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />](https://code.visualstudio.com/)  
-  [<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />](https://www.docker.com/)  
-  [<img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />](https://www.postman.com/)  
-  [<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />](https://www.figma.com/)  
-  [<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-%23DA1F26.svg?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" alt="Adobe Creative Cloud" />](https://www.adobe.com/creativecloud.html)  
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />  
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="VS Code" />  
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="Docker" />  
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="Postman" />  
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma" />  
+  <img src="https://cdn.simpleicons.org/adobecreativecloud/DA1F26" height="30" alt="Adobe Creative Cloud" />  
 </p>
-
----
 
 ### 🎓 **Education**  
 **Bachelor of Science in Web Development**  
