@@ -4,7 +4,7 @@ Welcome to my GitHub! I’m a web developer who loves exploring new technologies
 
 ---
 
-### 🌟 **Languages**  
+### 🌟 **[Languages](https://www.w3.org/standards/webdesign/htmlcss)**  
 <p align="left">  
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />  
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />  
@@ -13,14 +13,14 @@ Welcome to my GitHub! I’m a web developer who loves exploring new technologies
   <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />  
 </p>
 
-### 🛠️ **Frameworks & Libraries**  
+### 🛠️ **[Frameworks & Libraries](https://react.dev/)**  
 <p align="left">  
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />  
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />  
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />  
 </p>
 
-### ⚙️ **Development Tools**  
+### ⚙️ **[Development Tools](https://git-scm.com/)**  
 <p align="left">  
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />  
@@ -50,5 +50,3 @@ Welcome to my GitHub! I’m a web developer who loves exploring new technologies
 - 📧 **Email:** bradmatera@gmail.com  
 - 💼 **LinkedIn:** [Connect with me!](https://linkedin.com/in/championingempatheticwebsolutionsthroughcode)  
 - 🐱 **GitHub:** [@BradleyMatera](https://github.com/BradleyMatera)  
-
-
