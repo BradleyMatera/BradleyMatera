@@ -25,13 +25,3 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="Postman" />  
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma" />  
 </p>
-
-### 🎓 **Education**  
-**Bachelor of Science in Web Development**  
-- **Institution:** Full Sail University  
-- **Graduation:** October 2025  
-
-### 🏆 **FreeCodeCamp Certifications**  
-- [Responsive Web Design Certification](https://www.freecodecamp.org/certification/BradleyMatera/responsive-web-design) *(Dec 25, 2024)*  
-- [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/BradleyMatera/javascript-algorithms-and-data-structures-v8) *(Dec 25, 2024)*  
-- [Foundational C# With Microsoft](https://www.freecodecamp.org/certification/BradleyMatera/foundational-c-sharp-with-microsoft) *(Jan 12, 2025)*
