@@ -1,25 +1,29 @@
-# Welcome to my GitHub! 
-## I love creating things on my computer and exploring new technologies.
-Bradley Matera: Skills and Background
+# Welcome to My GitHub!
 
-Full Sail University B.S. Web Development student, started 8/2023, graduating 10/2025, 3.85 GPA. Skilled in JavaScript, HTML, CSS, SQL, C#, with experience in React, Gatsby, Next.js, React Native, Node.js, Express.js, MongoDB, Docker, Jest, PixiJS, WebGPU, Tailwind CSS. Developed web apps with DOM manipulation and API integration, including a Pokémon details app and dynamic page builder.
+## Passionate about coding and exploring new technologies.
 
-Experienced in deployment with Git, Netlify, Vercel, Heroku, Docker, and upcoming AWS internship (Summer 2025). Built a multi-language app with Python/Node.js using Docker. Proficient in React for responsive UIs, managing state and lifecycle methods in blog and mobile CRUD projects. Uses Tailwind CSS, Flexbox, Grid for styling, ensuring accessibility.
+**Bradley Matera: Skills and Background**
 
-Skilled in Node.js/Express.js for RESTful APIs with MongoDB/MySQL, and Jest for unit testing math utilities and debugging UI issues. Additional tools: PixiJS, WebGPU, Postman, Canvas. Projects include 3D parsing, soundboards, Markdown previewers, quote generators, data viz.
+Experienced web developer skilled in JavaScript, HTML, CSS, SQL, and foundational C#. Proficient in building interactive web applications with expertise in DOM manipulation and API integration. Developed projects including a Pokémon details application retrieving real-time data, a dynamic page builder utilizing advanced JavaScript techniques, and a full-stack CRUD application with mobile functionality.
 
-Background: Army medic (2011-2014), case manager (2022-2023) with Agile/Waterfall, construction (2017-2019), kitten rescue volunteer (2020-2022). Certifications: FreeCodeCamp Responsive Web Design, JS Algorithms (12/2024), C# (1/2025). U.S. citizen.
+Specialized in deployment workflows using Git for version control and repository management, alongside platforms such as Netlify, Vercel, and Heroku. Experienced with Docker, having containerized a multi-language application integrating Python and Node.js, optimizing setup processes through Unix scripting. Knowledgeable in cloud infrastructure, preparing for AWS deployment.
 
-Project Suitability
+Proficient in JavaScript frameworks including React, Gatsby, Next.js, and React Native. Skilled in creating components, managing state, and implementing lifecycle methods for responsive user interfaces across web and mobile projects. Actively learning TypeScript to enhance development capabilities.
 
-Suitable for:
+Expert in styling with Tailwind CSS, Flexbox, Grid, and CSS animations, ensuring responsive and accessible designs. Experienced in back-end development with Node.js and Express.js, building RESTful APIs integrated with MongoDB and MySQL databases. Competent in testing using Jest for unit tests on mathematical utilities and manual debugging to resolve user interface issues.
 
-Dynamic web app development/deployment.
-JavaScript frameworks (React, Gatsby, Next.js, React Native).
-API integration/JSON data handling.
-Responsive UI design with Tailwind CSS.
-Deployment with Git, Docker, Netlify, Vercel, Heroku, AWS.
-Testing with Jest and manual debugging.
+Additional technical skills include PixiJS for real-time graphics, WebGPU for advanced rendering, Postman for API testing, and Canvas for data visualization. Projects encompass 3D object parsing, interactive soundboards, Markdown previewers, random quote generators, and bar chart visualizations, demonstrating broad technical proficiency.
+
+**Project Suitability**
+
+Suitable for projects requiring:  
+- Development of dynamic web applications with deployment optimization.  
+- Implementation of JavaScript frameworks such as React, Gatsby, Next.js, and React Native.  
+- API integration and JSON data management for real-time functionality.  
+- Responsive user interface design with Tailwind CSS and accessibility standards.  
+- Deployment and version control with Git, Docker, Netlify, Vercel, and Heroku.  
+- Testing and optimization using Jest and manual debugging techniques.
+
 ### 🌟 **Languages**  
 <p align="left">  
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="HTML5" />  
