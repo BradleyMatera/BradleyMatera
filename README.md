@@ -4,15 +4,15 @@
 
 **Bradley Matera: Skills and Background**
 
-Experienced web developer skilled in JavaScript, HTML, CSS, SQL, and foundational C#. Proficient in building interactive web applications with expertise in DOM manipulation and API integration. Developed projects including a Pokémon details application retrieving real-time data, a dynamic page builder utilizing advanced JavaScript techniques, and a full-stack CRUD application with mobile functionality.
+Web dev stuff, mostly in JavaScript
 
-Specialized in deployment workflows using Git for version control and repository management, alongside platforms such as Netlify, Vercel, and Heroku. Experienced with Docker, having containerized a multi-language application integrating Python and Node.js, optimizing setup processes through Unix scripting. Knowledgeable in cloud infrastructure, preparing for AWS deployment.
+Git for version control and repository management, also Netlify, Vercel, and Heroku and Docker.
 
-Proficient in JavaScript frameworks including React, Gatsby, Next.js, and React Native. Skilled in creating components, managing state, and implementing lifecycle methods for responsive user interfaces across web and mobile projects. Actively learning TypeScript to enhance development capabilities.
+JavaScript frameworks iv played with including React, Gatsby, Next.js, and React Native. Iv created components, managed state, and implemented lifecycle methods for responsive user interfaces across web and mobile projects. Actively learning TypeScript to enhance development capabilities.
 
-Expert in styling with Tailwind CSS, Flexbox, Grid, and CSS animations, ensuring responsive and accessible designs. Experienced in back-end development with Node.js and Express.js, building RESTful APIs integrated with MongoDB and MySQL databases. Competent in testing using Jest for unit tests on mathematical utilities and manual debugging to resolve user interface issues.
+I usally style with Tailwind CSS, Flexbox, Grid, and CSS animations like animeJS or ThreeJS. Back-end development with Node.js and Express.js, built a few example RESTful APIs and  them integrated with MongoDB and MySQL databases. Competent in testing using Jest for unit tests on mathematical utilities and manual debugging to resolve user interface issues.
 
-Additional technical skills include PixiJS for real-time graphics, WebGPU for advanced rendering, Postman for API testing, and Canvas for data visualization. Projects encompass 3D object parsing, interactive soundboards, Markdown previewers, random quote generators, and bar chart visualizations, demonstrating broad technical proficiency.
+have also worked with PixiJS for real-time graphics, WebGPU for advanced rendering, Postman for API testing, and Canvas for data visualization. Projects encompass 3D object parsing, interactive soundboards, Markdown previewers, random quote generators, and bar chart visualizations.
 
 **Project Suitability**
 
