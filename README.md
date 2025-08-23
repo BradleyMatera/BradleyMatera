@@ -20,12 +20,13 @@ Building **web apps and cloud solutions** with a focus on functionality, perform
 
 ### 🌐 Languages  
 <p align="left">  
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="HTML5" />  
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="CSS3" />  
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML5" />  
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS3" />  
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript" />  
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript" />  
-  <img src="https://cdn.simpleicons.org/mysql/316192" height="30" alt="MySQL" />  
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL" />  
 </p>
+
 
 ### ⚛️ Frameworks & Libraries  
 <p align="left">  
