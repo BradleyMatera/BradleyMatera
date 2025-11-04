@@ -2,17 +2,18 @@
 
 ## Bradley Matera
 
-Building **web apps and cloud solutions** with a focus on functionality, performance, and reliability.  
+Building **software, cloud, and automation systems** with a focus on reliability, performance, and maintainability.  
 
 ---
 
 ## 📌 Overview
-- Web applications using **JavaScript**, with strong foundations in **frontend frameworks** and real backend integrations.  
-- Experienced in **Git-based workflows** and deployments using **Netlify, Vercel, Heroku, and Docker**.  
-- Skilled in creating **responsive UIs** with **Tailwind, Flexbox, and Grid**.  
-- Backend work with **Node.js, Express, MongoDB, MySQL**, plus **RESTful API design**.  
-- Testing and debugging with **Jest** and manual analysis.  
-- Exploring **TypeScript** for stronger code design and structure.  
+- Strong foundation in **JavaScript**, **React**, and **Node.js**, with real backend integrations and production-ready deployments.  
+- Experience in **AWS environments** including **EC2, S3, Lambda, CloudFormation, and IAM**.  
+- Comfortable working with **Docker**, **GitHub Actions**, and **CI/CD pipelines**.  
+- Frontend design experience using **TailwindCSS**, **Flexbox**, and **Grid** for responsive UIs.  
+- Backend development with **Express**, **MongoDB**, and **MySQL**, following RESTful design principles.  
+- Testing and debugging with **Jest**, **Postman**, and structured logs.  
+- Exploring **TypeScript**, **FastAPI**, and **AI-driven tooling** for automation and reliability.  
 
 ---
 
@@ -24,9 +25,9 @@ Building **web apps and cloud solutions** with a focus on functionality, perform
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS3" />  
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript" />  
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript" />  
+  <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python" />  
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL" />  
 </p>
-
 
 ### ⚛️ Frameworks & Libraries  
 <p align="left">  
@@ -35,6 +36,7 @@ Building **web apps and cloud solutions** with a focus on functionality, perform
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js" />  
   <img src="https://cdn.simpleicons.org/express/000000" height="30" alt="Express" />  
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="TailwindCSS" />  
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="30" alt="FastAPI" />  
 </p>
 
 ### 🛠️ Tools  
@@ -44,6 +46,7 @@ Building **web apps and cloud solutions** with a focus on functionality, perform
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="Docker" />  
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="Postman" />  
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma" />  
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />  
 </p>
 
 ---
@@ -64,22 +67,21 @@ Building **web apps and cloud solutions** with a focus on functionality, perform
 
 ---
 
-## ✅ Areas of Focus
-- Fast, dynamic **web apps** with real-world deployment.  
-- **APIs and JSON pipelines** with frontend + backend integration.  
-- **Responsive layouts** with Tailwind and Grid/Flexbox.  
-- **Cloud-ready workflows** using Docker and CI/CD.  
-- **Testing & Debugging** with Jest and structured logs.  
+## 🎓 Background  
+- **B.S. in Web Development** — Full Sail University  
+- **Cloud Support Associate Intern @ Amazon (SEA81)**  
+  - Hands-on work with **EC2, S3, Lambda, CloudFormation, IAM, Bedrock, and Q Business** in internal lab and training environments  
+  - Focused on infrastructure reliability, documentation, and automation workflows  
+- **Former 82nd Airborne Medic** — adaptable, disciplined, and focused on precision under pressure  
 
 ---
 
-## 📂 Highlighted Projects
-- 🎮 [WebGPU Shapes Renderer](https://bradleymatera.github.io/leaf-js/)  
-- 📱 [Interactive Pokedex](https://bradleymatera.github.io/Interactive-Pokedex/)  
-- 🐳 [Docker Multilang Project](https://github.com/BradleyMatera/docker_multilang_project)  
-- ➗ [CheeseMath Jest Tests](https://github.com/BradleyMatera/CheeseMath-Jest-Tests/tree/main/CheeseMath)  
-- 🕹️ [Pong Game](https://pongdeluxe.netlify.app/)  
-- 🎨 [CodePen Projects](https://codepen.io/student-account-bradley-matera/pens/public)  
+## ✅ Areas of Focus
+- Scalable **full-stack applications** built for real-world deployment  
+- **Cloud and DevOps workflows** with Docker and AWS  
+- **Automation and reliability** through testing, CI/CD, and monitoring  
+- **Accessible and responsive** frontend development  
+- Exploring **AI and FastAPI** for automation and workflow integration  
 
 ---
 
