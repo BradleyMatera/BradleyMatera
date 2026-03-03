@@ -53,16 +53,9 @@ Building **software, cloud, and automation systems** with a focus on reliability
 
 ## 📊 GitHub Metrics
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=BradleyMatera&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" 
-    height="180" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BradleyMatera&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" 
-    height="180" 
-  />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/BradleyMatera?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/BradleyMatera?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
+![GitHub repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/BradleyMatera&query=public_repos&label=Public%20Repos&style=for-the-badge)
 
 ---
 
