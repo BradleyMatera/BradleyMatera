@@ -19,34 +19,19 @@ Building **software, cloud, and automation systems** with a focus on reliability
 
 ## 🔧 Tech Stack
 
-### 🌐 Languages  
-<p align="left">  
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML5" />  
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS3" />  
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript" />  
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript" />  
-  <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python" />  
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL" />  
+### 🌐 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,mysql&theme=dark" height="35" />
 </p>
 
-### ⚛️ Frameworks & Libraries  
-<p align="left">  
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="React" />  
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30" alt="Next.js" />  
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js" />  
-  <img src="https://cdn.simpleicons.org/express/000000" height="30" alt="Express" />  
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="TailwindCSS" />  
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="30" alt="FastAPI" />  
+### ⚛️ Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi&theme=dark" height="35" />
 </p>
 
-### 🛠️ Tools  
-<p align="left">  
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />  
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="VS Code" />  
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="Docker" />  
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="Postman" />  
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma" />  
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />  
+### 🛠️ Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,vscode,docker,postman,figma,aws&theme=dark" height="35" />
 </p>
 
 ---
