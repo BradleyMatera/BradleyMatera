@@ -42,14 +42,7 @@ Building **software, cloud, and automation systems** with a focus on reliability
 ![GitHub stars](https://img.shields.io/github/stars/BradleyMatera?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
 ![GitHub repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/BradleyMatera&query=public_repos&label=Public%20Repos&style=for-the-badge)
 
----
 
-## 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BradleyMatera&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 ## 🎓 Background  
 - **B.S. in Web Development** — Full Sail University  
