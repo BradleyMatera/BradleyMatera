@@ -3,21 +3,20 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=850&center=true&vCenter=true&width=760&height=42&lines=I+build+end-to-end+software+experiences.;AI-assisted%2C+human-directed.;Web+%E2%80%A2+Cloud+%E2%80%A2+Automation+%E2%80%A2+Support;Build+%E2%86%92+Test+%E2%86%92+Ship+%E2%86%92+Learn" alt="Animated developer introduction" />
-  </a>
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/signal-strip.svg" width="92%" alt="Bradley Matera build workflow" />
 </p>
 
 <p align="center">
-  <a href="https://bradleymatera.dev"><img src="https://img.shields.io/badge/bradleymatera.dev-LIVE-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://bradleymatera.dev/work/"><img src="https://img.shields.io/badge/SELECTED_WORK-PROJECTS-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Selected work" /></a>
-  <a href="https://www.linkedin.com/in/bradmatera/"><img src="https://img.shields.io/badge/LINKEDIN-BRADLEY_MATERA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://dev.to/bradleymatera"><img src="https://img.shields.io/badge/DEV.TO-WRITING-0D1117?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to" /></a>
+  <a href="https://bradleymatera.dev"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/nav-website.svg" width="23%" alt="Website" /></a>
+  <a href="https://bradleymatera.dev/work/"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/nav-work.svg" width="23%" alt="Selected work" /></a>
+  <a href="https://www.linkedin.com/in/bradmatera/"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/nav-linkedin.svg" width="23%" alt="LinkedIn" /></a>
+  <a href="https://dev.to/bradleymatera"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/nav-devto.svg" width="23%" alt="DEV.to writing" /></a>
 </p>
 
----
 
-## 👨‍💻 Developer
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/section-developer.svg" width="100%" alt="Developer" />
+</p>
 
 <table>
 <tr>
@@ -43,106 +42,21 @@
 </tr>
 </table>
 
----
-
-## ⚡ Professional snapshot
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Education
-**B.S. in Web Development**  
-Full Sail University · October 2025
-
-</td>
-<td width="50%">
-
-### ☁️ Cloud
-**AWS Support Engineering Intern**  
-Seattle · 12 weeks · 2025
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧠 Certifications
-**AWS Solutions Architect – Associate**  
-**AWS AI Practitioner**
-
-</td>
-<td width="50%">
-
-### 🪖 Background
-**U.S. Army Combat Veteran**  
-Former 82nd Airborne Combat Medic
-
-</td>
-</tr>
-</table>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BradleyMatera&theme=github_dark&animation=load&duration=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BradleyMatera&theme=github&animation=load&duration=2" />
-  <img width="100%" alt="Bradley Matera GitHub profile activity summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BradleyMatera&theme=github_dark&animation=load&duration=2" />
-</picture>
-
----
-
-## 🧰 Core skills
-
-### Web & application development
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css&theme=light" />
-  <img alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, HTML and CSS" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css&theme=dark" />
-</picture>
-
-`JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js` · `Express` · `HTML` · `CSS` · `SQL fundamentals`
-
-**REST APIs** · **JSON** · authentication concepts · JWT debugging · API integrations · responsive interfaces
-
-### Cloud & infrastructure
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,docker&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,docker&theme=light" />
-  <img alt="AWS and Docker" src="https://skillicons.dev/icons?i=aws,docker&theme=dark" />
-</picture>
-
-`AWS Lambda` · `DynamoDB` · `S3` · `CloudFront` · `Amplify` · `Docker` · `Docker Compose`
-
-Cloud architecture · networking concepts · cost analysis · deployment troubleshooting
-
-### Development workflow
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=light" />
-  <img alt="Git, GitHub, VS Code and Postman" src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-</picture>
-
-`Git` · `GitHub` · `GitHub Issues` · `GitHub Pages` · `VS Code`
-
-Technical troubleshooting · documentation · issue tracking · user support · operational follow-through · learning existing systems
-
-### AI-assisted development
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PROMPT_DESIGN-1f6feb?style=flat-square" alt="Prompt design" />
-  <img src="https://img.shields.io/badge/GROUNDED_RETRIEVAL-8957e5?style=flat-square" alt="Grounded retrieval" />
-  <img src="https://img.shields.io/badge/LLM_ROUTING-d29922?style=flat-square" alt="LLM routing" />
-  <img src="https://img.shields.io/badge/EVALUATION-238636?style=flat-square" alt="Evaluation" />
-  <img src="https://img.shields.io/badge/VALIDATION-da3633?style=flat-square" alt="Validation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/snapshot-overview.svg" width="100%" alt="Professional snapshot" />
 </p>
 
-Prompt design · grounded retrieval workflows · multi-provider LLM routing · evaluation · validation · AI-assisted coding and debugging
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/section-skills.svg" width="100%" alt="Core skills" />
+</p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/skills-matrix.svg" width="100%" alt="Core skills matrix" />
+</p>
 
-## 💼 Professional technology experience
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/section-experience.svg" width="100%" alt="Professional technology experience" />
+</p>
 
 <details open>
 <summary><strong>☁️ Cloud Support Engineer Intern · Amazon Web Services</strong></summary>
@@ -189,9 +103,10 @@ My Army service included medical support in training environments and combat ope
 
 </details>
 
----
 
-## 🚀 Selected technical projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/section-projects.svg" width="100%" alt="Selected technical projects" />
+</p>
 
 > **How to read this section:** these are projects I deliberately keep in my professional project inventory. Some were built with substantial AI assistance. The links are here because the resulting software, demos, or repositories are things people can actually inspect.
 
@@ -330,21 +245,13 @@ The public reconstruction is **not Amazon production code** and does not represe
 
 </details>
 
----
-
-## 🏅 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect Associate" />
-  <img src="https://img.shields.io/badge/AWS-AI_Practitioner-8A2BE2?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified AI Practitioner" />
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/section-certifications.svg" width="100%" alt="Certifications" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Responsive Web Design" />
-  <img src="https://img.shields.io/badge/freeCodeCamp-JavaScript_Algorithms-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" alt="freeCodeCamp JavaScript Algorithms" />
-  <img src="https://img.shields.io/badge/freeCodeCamp-Front_End_Libraries-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Front End Libraries" />
-  <img src="https://img.shields.io/badge/freeCodeCamp-Data_Visualization-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Data Visualization" />
-  <img src="https://img.shields.io/badge/Microsoft-Foundational_C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Microsoft Foundational C Sharp" />
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/certifications-board.svg" width="100%" alt="Certification highlights" />
 </p>
 
 <details>
@@ -373,9 +280,10 @@ Coursework included interfaces/usability, database systems, server-side language
 
 I also participated in **Tech Talk Club** through weekly Agile-style standups and contributed to **Fallen Knight: Requiem of Honor** during the December 2023 KAJAM game jam, where the team ranked **#9 in Artstyle**.
 
----
 
-## ✍️ Latest writing
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/section-writing.svg" width="100%" alt="Latest writing" />
+</p>
 
 I write about things I am building, learning, testing, and changing my mind about. My writing often starts with AI-assisted research or drafting and then gets edited around what I actually did, observed, or wanted to understand.
 
@@ -388,12 +296,13 @@ I write about things I am building, learning, testing, and changing my mind abou
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
-  <a href="https://dev.to/bradleymatera"><img src="https://img.shields.io/badge/READ_MORE-DEV.TO-0D1117?style=for-the-badge&logo=devdotto&logoColor=white" alt="Read more on DEV.to" /></a>
+  <a href="https://dev.to/bradleymatera"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/nav-devto.svg" width="278" alt="Read more on DEV.to" /></a>
 </p>
 
----
 
-## 📈 Recent public GitHub activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/section-activity.svg" width="100%" alt="Recent public GitHub activity" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/output/github-contribution-grid-snake-dark.svg" />
@@ -406,8 +315,7 @@ I write about things I am building, learning, testing, and changing my mind abou
 ---
 
 <p align="center">
-  <strong>Developer.</strong><br />
-  I like turning ideas into things people can actually click, use, and finish a task with.
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/footer-terminal.svg" width="100%" alt="Developer footer" />
 </p>
 
 <p align="center">
