@@ -1,0 +1,37 @@
+name: Build README visuals
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "tools/generate_readme_visuals.py"
+      - ".github/workflows/readme-visuals.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate custom README SVG system
+        run: python tools/generate_readme_visuals.py
+
+      - name: Commit generated visuals and README changes
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/readme/*.svg
+          if git diff --cached --quiet; then
+            echo "No README visual changes to commit."
+            exit 0
+          fi
+          git commit -m "Generate custom README SVG visuals"
+          git push
