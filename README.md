@@ -326,7 +326,7 @@ My AWS internship capstone was built in an isolated training environment using S
 
 The public reconstruction is **not Amazon production code** and does not represent ownership of production customer infrastructure.
 
-**[▶ Walkthrough]([https://bradleymatera.dev/aws-metadata-workflow/](https://bradleymatera.github.io/AWS-Serverless-Metadata-Workflow/))** · **[⌘ GitHub](https://github.com/BradleyMatera/AWS-Serverless-Metadata-Workflow)**
+**[▶ Walkthrough](https://bradleymatera.github.io/AWS-Serverless-Metadata-Workflow/)** · **[⌘ GitHub](https://github.com/BradleyMatera/AWS-Serverless-Metadata-Workflow)**
 
 </details>
 
