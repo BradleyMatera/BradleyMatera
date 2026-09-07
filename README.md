@@ -304,7 +304,7 @@ A TypeScript/Next.js learning-management demo for secrets-management training wi
 
 <img src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs" alt="Next.js 16" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Jest-tests-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
+<img src="https://img.shields.io/badge/Jest-tests-C21325?style=flat-square&logo=jest" alt="Jest" />
 <img src="https://img.shields.io/badge/Selenium-tests-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
 
 A calculator/tool suite rebuilt in Next.js and TypeScript with math, string, regex, and card-validation tools while preserving the earlier React implementation and test work.
@@ -396,22 +396,12 @@ I write about things I am building, learning, testing, and changing my mind abou
 ## 📈 Recent public GitHub activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BradleyMatera&theme=github-dark&hide_border=true&area=true&custom_title=Recent%20public%20GitHub%20activity" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BradleyMatera&theme=github&hide_border=true&area=true&custom_title=Recent%20public%20GitHub%20activity" />
-  <img width="100%" alt="Bradley Matera recent public GitHub activity" src="https://github-readme-activity-graph.vercel.app/graph?username=BradleyMatera&theme=github-dark&hide_border=true&area=true&custom_title=Recent%20public%20GitHub%20activity" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Bradley Matera recent public GitHub contribution activity" src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/output/github-contribution-grid-snake.svg" />
 </picture>
 
 > **Context:** I build and experiment frequently. Commit volume is not a measurement of seniority, code quality, or how much of a project was written without AI assistance.
-
----
-
-## 🐍 Contribution activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
