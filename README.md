@@ -64,8 +64,9 @@
 
 **Seattle, WA · May 2025 → August 2025**
 
-<img src="https://img.shields.io/badge/AWS-Support_Engineering-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Support Engineering" />
-<img src="https://img.shields.io/badge/ENVIRONMENT-Training_%26_Labs-30363d?style=flat-square" alt="Training and lab environment" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/experience-aws.svg" width="100%" alt="AWS Support Engineering experience" />
+</p>
 
 - Completed a 12-week AWS Support Engineering internship focused on cloud troubleshooting, networking concepts, infrastructure analysis, customer experience, and operational workflows.
 - Completed guided support rotations and troubleshooting exercises in isolated training environments with **no production customer data**.
@@ -81,15 +82,18 @@
 
 **Remote · October 2024 → June 2025**
 
-<img src="https://img.shields.io/badge/10_PULL_REQUESTS-SUBMITTED-1f6feb?style=flat-square&logo=github" alt="10 pull requests submitted" />
-<img src="https://img.shields.io/badge/7-MERGED-238636?style=flat-square&logo=github" alt="7 pull requests merged" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/experience-ciris.svg" width="100%" alt="CIRIS Ethical AI contribution activity" />
+</p>
 
 - Ran the project locally and improved onboarding/setup documentation, including environment notes and JWT guidance.
 - Contributed small code updates through merged pull requests, including token-verification logging, lint fixes, and clearer error messages.
 - Created Docker Compose configuration for local development and documented larger improvements through GitHub Issues.
 - Worked with AI-assisted coding workflows, debugging, deployment troubleshooting, API integrations, and an existing codebase.
 
-**[View my CIRISNode pull requests →](https://github.com/CIRISAI/CIRISNode/pulls?q=is%3Apr+author%3ABradleyMatera)**
+<p align="center">
+  <a href="https://github.com/CIRISAI/CIRISNode/pulls?q=is%3Apr+author%3ABradleyMatera"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/action-pull-requests.svg" width="290" alt="View CIRIS pull requests" /></a>
+</p>
 
 </details>
 
@@ -108,20 +112,24 @@ My Army service included medical support in training environments and combat ope
   <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/section-projects.svg" width="100%" alt="Selected technical projects" />
 </p>
 
-> **How to read this section:** these are projects I deliberately keep in my professional project inventory. Some were built with substantial AI assistance. The links are here because the resulting software, demos, or repositories are things people can actually inspect.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/project-context.svg" width="100%" alt="Project inventory context" />
+</p>
 
 <details open>
 <summary><strong>🚗 Car-Match</strong> · React + Express + Cloud Run</summary>
 <br />
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Run" />
-<img src="https://img.shields.io/badge/MongoDB-optional-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/project-car-match.svg" width="100%" alt="Car-Match technology stack" />
+</p>
 
 Built a React and Express community MVP with profiles, events, messaging, and forums. The frontend is deployed to GitHub Pages and the containerized backend to Google Cloud Run with optional MongoDB persistence.
 
-**[▶ Live](https://bradleymatera.github.io/car-match/)** · **[⌘ GitHub](https://github.com/BradleyMatera/car-match)**
+<p align="center">
+  <a href="https://bradleymatera.github.io/car-match/"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/action-live.svg" width="290" alt="Open live project" /></a>
+  <a href="https://github.com/BradleyMatera/car-match"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/action-github.svg" width="290" alt="View GitHub repository" /></a>
+</p>
 
 </details>
 
@@ -129,16 +137,18 @@ Built a React and Express community MVP with profiles, events, messaging, and fo
 <summary><strong>🧠 ProjectHub / Scout</strong> · AI systems experiment</summary>
 <br />
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/Retrieval-BM25_%2B_RRF-8957e5?style=flat-square" alt="BM25 and RRF retrieval" />
-<img src="https://img.shields.io/badge/AI-Assisted-d29922?style=flat-square" alt="AI assisted" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/project-scout.svg" width="100%" alt="ProjectHub / Scout technology stack" />
+</p>
 
 An embeddable JavaScript recruiter assistant with a Node.js/Express backend. The project explores a GitHub-synced knowledge base, grounded-first answers, retrieval, multi-provider LLM routing/failover, response validation, caching, analytics, and small-compute AI system design.
 
 This is one of my largest **AI-assisted experimental projects**. I use it to learn and test system design ideas, not to claim that I independently invented or mastered every implementation technique inside it.
 
-**[▶ Live](https://bradleymatera.github.io/ProjectHub/)** · **[⌘ GitHub](https://github.com/BradleyMatera/ProjectHub)**
+<p align="center">
+  <a href="https://bradleymatera.github.io/ProjectHub/"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/action-live.svg" width="290" alt="Open live project" /></a>
+  <a href="https://github.com/BradleyMatera/ProjectHub"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/action-github.svg" width="290" alt="View GitHub repository" /></a>
+</p>
 
 </details>
 
@@ -146,13 +156,16 @@ This is one of my largest **AI-assisted experimental projects**. I use it to lea
 <summary><strong>🔴 Interactive Pokédex</strong> · Next.js static application</summary>
 <br />
 
-<img src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs" alt="Next.js" />
-<img src="https://img.shields.io/badge/PokeAPI-data-E3350D?style=flat-square" alt="PokeAPI" />
-<img src="https://img.shields.io/badge/GitHub_Actions-deploy-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/project-pokedex.svg" width="100%" alt="Interactive Pokédex technology stack" />
+</p>
 
 Built a Next.js static export that prerenders **151 Pokémon detail pages** from PokeAPI data and adds client-side search/filtering with React context, Tailwind CSS, and GitHub Actions deployment.
 
-**[▶ Live](https://bradleymatera.github.io/Interactive-Pokedex/)** · **[⌘ GitHub](https://github.com/BradleyMatera/Interactive-Pokedex)**
+<p align="center">
+  <a href="https://bradleymatera.github.io/Interactive-Pokedex/"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/action-live.svg" width="290" alt="Open live project" /></a>
+  <a href="https://github.com/BradleyMatera/Interactive-Pokedex"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/action-github.svg" width="290" alt="View GitHub repository" /></a>
+</p>
 
 </details>
 
@@ -160,13 +173,16 @@ Built a Next.js static export that prerenders **151 Pokémon detail pages** from
 <summary><strong>🔊 AnimalSounds</strong> · offline-ready soundboard</summary>
 <br />
 
-<img src="https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=nextdotjs" alt="Next.js 14" />
-<img src="https://img.shields.io/badge/Bun-runtime-000000?style=flat-square&logo=bun" alt="Bun" />
-<img src="https://img.shields.io/badge/offline-ready-238636?style=flat-square" alt="Offline ready" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/project-animal-sounds.svg" width="100%" alt="AnimalSounds technology stack" />
+</p>
 
 Built an offline-ready soundboard with bundled audio, a responsive interface, localStorage favorites/analytics, optional photo enrichment, and GitHub Pages deployment.
 
-**[▶ Live](https://bradleymatera.github.io/AnimalSounds/)** · **[⌘ GitHub](https://github.com/BradleyMatera/AnimalSounds)**
+<p align="center">
+  <a href="https://bradleymatera.github.io/AnimalSounds/"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/action-live.svg" width="290" alt="Open live project" /></a>
+  <a href="https://github.com/BradleyMatera/AnimalSounds"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/action-github.svg" width="290" alt="View GitHub repository" /></a>
+</p>
 
 </details>
 
@@ -174,14 +190,16 @@ Built an offline-ready soundboard with bundled audio, a responsive interface, lo
 <summary><strong>🎙️ Convo-AI</strong> · local-first voice assistant experiment</summary>
 <br />
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Ollama-local_AI-111111?style=flat-square" alt="Ollama" />
-<img src="https://img.shields.io/badge/WebSockets-realtime-1f6feb?style=flat-square" alt="WebSockets" />
-<img src="https://img.shields.io/badge/Docker-supported-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/project-convo-ai.svg" width="100%" alt="Convo-AI technology stack" />
+</p>
 
 Built a local-first voice-assistant experiment using FastAPI, WebSockets, faster-whisper, Ollama, Coqui TTS, SQLite, RAG-style memory, a React/Tailwind interface, CLI tooling, tests, CI, and Docker support.
 
-**[▶ Live](https://bradleymatera.github.io/Convo-Ai/)** · **[⌘ GitHub](https://github.com/BradleyMatera/Convo-Ai)**
+<p align="center">
+  <a href="https://bradleymatera.github.io/Convo-Ai/"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/action-live.svg" width="290" alt="Open live project" /></a>
+  <a href="https://github.com/BradleyMatera/Convo-Ai"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/action-github.svg" width="290" alt="View GitHub repository" /></a>
+</p>
 
 </details>
 
@@ -189,13 +207,16 @@ Built a local-first voice-assistant experiment using FastAPI, WebSockets, faster
 <summary><strong>🔺 Triangle Shader Lab</strong> · WebGPU learning lab</summary>
 <br />
 
-<img src="https://img.shields.io/badge/WebGPU-learning_lab-6e40c9?style=flat-square" alt="WebGPU" />
-<img src="https://img.shields.io/badge/WGSL-editor-8957e5?style=flat-square" alt="WGSL editor" />
-<img src="https://img.shields.io/badge/16-lessons-1f6feb?style=flat-square" alt="16 lessons" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/project-triangle.svg" width="100%" alt="Triangle Shader Lab technology stack" />
+</p>
 
 A WebGPU learning lab with canonical demos, interactive lessons, a WGSL editor, pipeline visualizer, geometry/lighting/texture tools, and performance analytics.
 
-**[▶ Live](https://bradleymatera.github.io/TriangleDemo/)** · **[⌘ GitHub](https://github.com/BradleyMatera/TriangleDemo)**
+<p align="center">
+  <a href="https://bradleymatera.github.io/TriangleDemo/"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/action-live.svg" width="290" alt="Open live project" /></a>
+  <a href="https://github.com/BradleyMatera/TriangleDemo"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/action-github.svg" width="290" alt="View GitHub repository" /></a>
+</p>
 
 </details>
 
@@ -203,13 +224,16 @@ A WebGPU learning lab with canonical demos, interactive lessons, a WGSL editor, 
 <summary><strong>🔐 SecureLearn LMS</strong> · TypeScript learning-management demo</summary>
 <br />
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Next.js-15-000000?style=flat-square&logo=nextdotjs" alt="Next.js 15" />
-<img src="https://img.shields.io/badge/security-training-da3633?style=flat-square" alt="Security training" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/project-securelearn.svg" width="100%" alt="SecureLearn LMS technology stack" />
+</p>
 
 A TypeScript/Next.js learning-management demo for secrets-management training with courses, quizzes, terminal-style labs, progress tracking, role-based dashboards, and verifiable certificates.
 
-**[▶ Live](https://bradleymatera.github.io/EthicsFrontEndDemo/)** · **[⌘ GitHub](https://github.com/BradleyMatera/EthicsFrontEndDemo)**
+<p align="center">
+  <a href="https://bradleymatera.github.io/EthicsFrontEndDemo/"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/action-live.svg" width="290" alt="Open live project" /></a>
+  <a href="https://github.com/BradleyMatera/EthicsFrontEndDemo"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/action-github.svg" width="290" alt="View GitHub repository" /></a>
+</p>
 
 </details>
 
@@ -217,14 +241,16 @@ A TypeScript/Next.js learning-management demo for secrets-management training wi
 <summary><strong>🧀 CheeseMath</strong> · calculator and testing suite</summary>
 <br />
 
-<img src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs" alt="Next.js 16" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Jest-tests-C21325?style=flat-square&logo=jest" alt="Jest" />
-<img src="https://img.shields.io/badge/Selenium-tests-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/project-cheesemath.svg" width="100%" alt="CheeseMath technology stack" />
+</p>
 
 A calculator/tool suite rebuilt in Next.js and TypeScript with math, string, regex, and card-validation tools while preserving the earlier React implementation and test work.
 
-**[▶ Live](https://bradleymatera.github.io/CheeseMath-Jest-Tests/)** · **[⌘ GitHub](https://github.com/BradleyMatera/CheeseMath-Jest-Tests)**
+<p align="center">
+  <a href="https://bradleymatera.github.io/CheeseMath-Jest-Tests/"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/action-live.svg" width="290" alt="Open live project" /></a>
+  <a href="https://github.com/BradleyMatera/CheeseMath-Jest-Tests"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/action-github.svg" width="290" alt="View GitHub repository" /></a>
+</p>
 
 </details>
 
@@ -232,16 +258,18 @@ A calculator/tool suite rebuilt in Next.js and TypeScript with math, string, reg
 <summary><strong>☁️ AWS Serverless Metadata Workflow</strong> · internship capstone + public reconstruction</summary>
 <br />
 
-<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
-<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
-<img src="https://img.shields.io/badge/AWS_SAM-IaC-FF9900?style=flat-square" alt="AWS SAM" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/project-aws-metadata.svg" width="100%" alt="AWS Serverless Metadata Workflow technology stack" />
+</p>
 
 My AWS internship capstone was built in an isolated training environment using S3, Lambda, DynamoDB, and an accessible frontend. I later reconstructed and expanded the project publicly with AWS SAM, idempotent writes, failure handling, tests, CI, diagrams, and a usage-based cost model.
 
 The public reconstruction is **not Amazon production code** and does not represent ownership of production customer infrastructure.
 
-**[▶ Walkthrough](https://bradleymatera.github.io/AWS-Serverless-Metadata-Workflow/)** · **[⌘ GitHub](https://github.com/BradleyMatera/AWS-Serverless-Metadata-Workflow)**
+<p align="center">
+  <a href="https://bradleymatera.github.io/AWS-Serverless-Metadata-Workflow/"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/action-walkthrough.svg" width="290" alt="Open project walkthrough" /></a>
+  <a href="https://github.com/BradleyMatera/AWS-Serverless-Metadata-Workflow"><img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/action-github.svg" width="290" alt="View GitHub repository" /></a>
+</p>
 
 </details>
 
@@ -270,11 +298,13 @@ The public reconstruction is **not Amazon production code** and does not represe
 
 ---
 
-## 🎓 Education
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/section-education.svg" width="100%" alt="Education" />
+</p>
 
-### Bachelor of Science in Web Development · Full Sail University
-
-`August 2023 → October 2025`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/education-overview.svg" width="100%" alt="Bachelor of Science in Web Development" />
+</p>
 
 Coursework included interfaces/usability, database systems, server-side languages, application development, cloud application development, deployment, web application integration, application security, interface programming, and discrete mathematics.
 
@@ -310,7 +340,9 @@ I write about things I am building, learning, testing, and changing my mind abou
   <img width="100%" alt="Bradley Matera recent public GitHub contribution activity" src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/output/github-contribution-grid-snake.svg" />
 </picture>
 
-> **Context:** I build and experiment frequently. Commit volume is not a measurement of seniority, code quality, or how much of a project was written without AI assistance.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BradleyMatera/BradleyMatera/main/assets/readme/activity-context.svg" width="100%" alt="GitHub activity context" />
+</p>
 
 ---
 
