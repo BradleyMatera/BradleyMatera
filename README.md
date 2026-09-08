@@ -318,11 +318,11 @@ I also participated in **Tech Talk Club** through weekly Agile-style standups an
 I write about things I am building, learning, testing, and changing my mind about. My writing often starts with AI-assisted research or drafting and then gets edited around what I actually did, observed, or wanted to understand.
 
 <!-- BLOG-POST-LIST:START -->
+- [The Test Suite Was Green. Scout Was Still Wrong.](https://dev.to/bradleymatera/the-test-suite-was-green-scout-was-still-wrong-f48)
 - [Switching LLMs Mid-Task Is Not as Seamless as It Looks](https://dev.to/bradleymatera/switching-llms-mid-task-is-not-as-seamless-as-it-looks-2cm3)
 - [I&#39;m Building Free AI on a VM That Barely Qualifies as a Computer](https://dev.to/bradleymatera/im-building-free-ai-on-a-vm-that-barely-qualifies-as-a-computer-342)
 - [Are AI Models Hardwired to Fail?](https://dev.to/bradleymatera/are-ai-models-hardwired-to-fail-2741)
 - [How I Built ProjectHub: An Embeddable AI Recruiter Assistant That Runs on Free Tiers](https://dev.to/bradleymatera/how-i-built-projecthub-an-embeddable-ai-recruiter-assistant-that-runs-on-free-tiers-bif)
-- [AI Didn&#39;t Replace Junior Developers. It Replaced Safe Places To Be One.](https://dev.to/bradleymatera/ai-didnt-replace-junior-developers-it-replaced-safe-places-to-be-one-d91)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
